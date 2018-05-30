@@ -5,5 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Print("Hello world")
+	var name = "Juan"
+	fmt.Print("Hello " + name)
+
 }
