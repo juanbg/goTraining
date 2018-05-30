@@ -6,6 +6,6 @@ import (
 
 func main() {
 	var name = "Juan"
-	fmt.Print("Hello " + name)
+	fmt.Print("Hello my dear: " + name)
 
 }
